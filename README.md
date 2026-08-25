@@ -4,7 +4,7 @@ An interactive **Othello (Reversi) game with an AI opponent**, built in **Python
 
 ## Demo
 
-**[Watch the Othello AI Demo on YouTube](https://www.youtube.com/watch?v=K9rsMnxV6FA)**
+**[Watch the Othello AI Demo on YouTube](https://www.youtube.com/watch?v=EgZoHNykmW4)**
 
 ## Features
 
@@ -40,10 +40,12 @@ Board Score =
 The search depth can be adjusted during gameplay to control the tradeoff between **AI strength and computation time**.
 
 ## Screenshots
-<img width="1150" height="463" alt="Screenshot 2026-08-25 at 3 06 04 PM" src="https://github.com/user-attachments/assets/5e262dca-46b9-4616-8786-9c3ef85762f5" />
-<img width="1155" height="471" alt="Screenshot 2026-08-25 at 3 06 30 PM" src="https://github.com/user-attachments/assets/f88982ab-e688-4b37-a91c-4c87be5029e4" />
-<img width="1333" height="872" alt="Screenshot 2026-08-25 at 3 06 54 PM" src="https://github.com/user-attachments/assets/1a9fcf25-ec9e-4a05-a651-92d53a730f23" />
-<img width="845" height="459" alt="Screenshot 2026-08-25 at 3 07 23 PM" src="https://github.com/user-attachments/assets/84a49bb1-bcf0-4c8e-8572-b846f305be7f" />
+<img width="1102" height="832" alt="Screenshot 2026-08-25 at 3 15 41 PM" src="https://github.com/user-attachments/assets/bd0e36c8-57ef-49dc-9190-832085f70870" />
+<img width="1100" height="826" alt="Screenshot 2026-08-25 at 3 16 19 PM" src="https://github.com/user-attachments/assets/edc0b092-09b2-4a83-9762-d0fe97a5b6b4" />
+<img width="1104" height="829" alt="Screenshot 2026-08-25 at 3 16 41 PM" src="https://github.com/user-attachments/assets/57f38c86-e9f4-4970-b99e-aa2965e8408b" />
+<img width="780" height="466" alt="Screenshot 2026-08-25 at 3 18 10 PM" src="https://github.com/user-attachments/assets/2a9c9370-1fb1-46a0-9d66-9bb1a0e30296" />
+<img width="902" height="731" alt="Screenshot 2026-08-25 at 3 18 41 PM" src="https://github.com/user-attachments/assets/2580b3df-dfa1-4c33-a1d6-ee5680ee86e1" />
+
 
 ## Controls
 
