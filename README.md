@@ -2,10 +2,6 @@
 
 An interactive **Othello (Reversi) game with an AI opponent**, built in **Python and Pygame**. The project implements the complete Othello rule set and uses **Minimax with Alpha-Beta pruning** to make strategic AI decisions.
 
-<p align="center">
-  <img src="assets/othello-game.png" width="750" alt="Othello AI Gameplay">
-</p>
-
 ## 🎥 Demo
 
 ▶️ **[Watch the Othello AI Demo on YouTube](https://www.youtube.com/watch?v=K9rsMnxV6FA)**
